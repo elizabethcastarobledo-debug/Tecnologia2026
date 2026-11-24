@@ -1,3 +1,0 @@
-Computadores: 10
-Teclados: 20
-Monitores: 15
